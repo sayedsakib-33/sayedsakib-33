@@ -15,8 +15,8 @@ I build practical internal tools and automation at the intersection of operation
 🔭 &nbsp;I'm currently working on **Efficiency Tracker using Google Sheets, Internal Tools, &amp; CLAUDE**  
 🌱 &nbsp;I'm currently learning **Backend DB**  
 👯 &nbsp;I'm looking to collaborate on **Projects that are Tricky with Unique Logics**  
-💬 &nbsp;Ask me about **Python, Prompt Engineering, AI Automation**  
-😄 &nbsp;Pronouns: **he/him**  
+💬 &nbsp;Ask me about **Python, Prompt Engineering, AI Automation, Process Optimization**  
+😄 &nbsp;Pronouns: **He/Him**  
 ⚡ &nbsp;Fun fact: **I did not know I could Code, last manual code was back in 2020**
 
 ### 🛠️ Tech Stack
